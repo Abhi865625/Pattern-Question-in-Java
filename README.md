@@ -19,13 +19,9 @@
 ![image](https://github.com/Abhi865625/Pattern-Questions-in-Java/assets/93569162/79684b60-c1f6-4652-a5a0-b4bde96c875e)
 
 
-![image](https://github.com/Abhi865625/Pattern-Questions-in-Java/assets/93569162/788be325-2c0b-4ea9-b09e-da7e7ae026ca)
-
-![image](https://github.com/Abhi865625/Pattern-Questions-in-Java/assets/93569162/5531f6db-2ce1-41a0-bc23-13e06f36ea0b)
-
-
-
-
 
 
 ![image](https://github.com/Abhi865625/Pattern-Questions-in-Java/assets/93569162/df6c1ea2-35e6-4111-bfa9-043888fa2356)
+
+
+![image](https://github.com/Abhi865625/Pattern-Questions-in-Java/assets/93569162/788be325-2c0b-4ea9-b09e-da7e7ae026ca)
